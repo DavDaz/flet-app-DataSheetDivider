@@ -21,5 +21,14 @@ Este proyecto contiene un script de Python que divide un archivo de Excel en mú
 4. Ejecutar el script:
     $ flet run data_sheet_divider.py
 
+## Crear ejecutable
+Crear ejecutable
+```consola
+~$ flet pack data_sheet_divider.py
+```
+Con imagen:
+```consola
+~$ flet pack data_sheet_divider.py --icon img.png
+```
 ## Desarrollador
 - [David Diaz]
