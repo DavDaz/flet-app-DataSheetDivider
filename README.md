@@ -3,7 +3,7 @@
 Este proyecto contiene un script de Python que divide un archivo de Excel en múltiples archivos basándose en las hojas del archivo original. Cada hoja del archivo de Excel se guarda como un archivo separado.
 
 # Paso Principal
-1. Arrastra el archivo .xlsx a la raiz del proyecto, debe quedar al mismo nivel que "data_sheet_divider.py"
+1. Arrastra el archivo .xlsx a la raiz del proyecto, debe quedar al mismo nivel que "data_sheet_divider"
 
 ## Cómo usar
 1. Luego ejecuta los siguientes comando en una terminal que se encuentre en la ruta de este proyecto:
