@@ -1,1 +1,5 @@
 *.xlsx
+.env
+/build
+/dist
+data_sheet_divider.spec
